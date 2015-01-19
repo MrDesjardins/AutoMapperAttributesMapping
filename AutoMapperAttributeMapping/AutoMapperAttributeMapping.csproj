@@ -75,7 +75,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoMapperExtensions.cs" />
-    <Compile Include="LambdaHelper.cs" />
     <Compile Include="MappedDataAnnotationsModelMetadataProvider.cs" />
     <Compile Include="ModelMetadataProviderConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
